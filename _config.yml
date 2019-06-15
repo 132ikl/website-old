@@ -27,7 +27,7 @@ theme: jekyll-theme-hydeout
 plugins:
     - jekyll-last-modified-at
 
-paginate: 5
+#paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
