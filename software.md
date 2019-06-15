@@ -12,7 +12,7 @@ permalink: /software/
 .content ul {margin-bottom: 0em;}
 </style>
 
-Here, you can find software hosted on this server and other software I use on a daily basis. Most software here is free, open source software, except where noted. I like more minimalist software, but I end up chosing whatever both aligns with my beliefs and works best for me.
+Here, you can find software hosted on this server and other software I use on a daily basis. Most software here is free and open source, except where noted. I like more minimalist software, but I end up chosing whatever both aligns with my beliefs and works best for me.
 
 Feel free to use any software on hosted on this server, but it may disappear without warning. 
 
