@@ -3,6 +3,7 @@ layout: page
 title: '~/software/'
 sidebar_link: true
 sidebar_sort_order: 1
+permalink: /software/
 ---
 
 <sup>(last updated: {{ page.last_modified_at | date: '%Y-%m-%d' }})</sup>
