@@ -1,0 +1,31 @@
+.lead {
+    font-family: "DejaVu Sans Mono";
+    font-size: 1em;
+}
+
+#sidebar-nav-links {
+    font-family: "DejaVu Sans Mono";
+}
+
+#sidebar .site-title {
+    font-family: "Ramabhadra", sans-seif;
+}
+
+@media (min-width: 49rem) {
+    .container {
+        padding: 4rem 6rem 0;
+    }
+}
+
+.copyright {
+    font-size: .75em;
+}
+
+.copyright > a {
+    color: #c0c8d8 !important;
+}
+
+img {
+    box-shadow: 0px 2px 5px 2px #ccc;
+    border-radius: 0em;
+}
