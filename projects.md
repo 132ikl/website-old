@@ -43,7 +43,7 @@ MMCCRanks is a dead-simple rank display Forge mod for Minecraft 1.7.10. It uses 
 ![dotfiles banner](/media/dotfiles.png)
 <sup>*dotfiles logo by jglovier under MIT License*</sup>
 
-My configuration files for 
+My configuration files for my desktop, shortcuts, programs like st.
 
 ---
 ## [Polychat 1.7.10](https://github.com/132ikl/polychat-client/tree/mc1.7.10)
